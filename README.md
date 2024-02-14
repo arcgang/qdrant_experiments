@@ -1,5 +1,5 @@
 
-Running qdrant locally with podman 
+# Experiments with qdrant
 <hr />
 
 ### Running Qdrant on mac using podman
